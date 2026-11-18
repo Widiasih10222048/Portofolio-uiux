@@ -10,6 +10,7 @@ Tugas kelompok mata kuliah Sistem Pakar, STT Cipasung, 2026. **Status:** tahap p
 - **Bab A (Penilaian):** masalah, tujuan sistem, dan kebutuhan resource.
 - **Bab B (Akuisisi Pengetahuan):** kebutuhan, sumber, dan cara mendapatkan pengetahuan pakar.
 - **Desain Figma:** seluruh 9 layar untuk 2 peran pengguna (pengguna dan admin).
+- **Dokumentasi:** USE Case dan Flowchart.
 
 ## Masalah
 POLRI mencatat 3.347 perkara pembunuhan dalam 4 tahun (puncak 1.076 kasus pada 2021), sedangkan dokter forensik di Indonesia baru 283 orang pada 2022 dan sebarannya belum merata. Sistem pakar membantu memberi estimasi awal PMI saat akses ke dokter forensik terbatas.
@@ -41,7 +42,7 @@ Dokumen disusun berurutan seperti model Waterfall:
 | Perancangan | C, UI/UX oleh saya | Selesai |
 | Implementasi | - | Belum dibangun |
 | Pengujian | D | Rencana selesai |
-| Dokumentasi | E | Selesai |
+| Dokumentasi (Bagian Saya) | E | Selesai |
 | Pemeliharaan | F | Rencana selesai |
 
 ## Ringkasan Sistem (Tim)
